@@ -1,0 +1,10 @@
+I was asked to make this (an lru cache) in an interview, and it seemed like a fun thing to finish off.
+
+Upcoming improvements:
+	not deleting / re-adding nodes for every get/set
+	broader generalization
+
+If you have questions or are thinking you want to use this (... :|) then contact me at carss.w@gmail.com
+
+Thanks!
+Wyatt
